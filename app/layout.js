@@ -1,5 +1,3 @@
-
-
 export const metadata = {
   title: "Silent Return",
   description: "Anonymous Lost & Found system for boarding schools",
